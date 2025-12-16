@@ -1,16 +1,18 @@
-## Hi there 👋
+## Praveen Kumar
 
-<!--
-**RSMSPN01/RSMSPN01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on **Data Structures, Algorithms, and core software engineering**.
+Published two book chapters using Machine Learning and starting to step into android development
 
-Here are some ideas to get you started:
+**Currently working on:**  
+- Consistent DSA practice (C++)  
+- Improving problem-solving and system thinking
+- Android Development 
+  
+**Tools:**  
+C++, Python, Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect:**  
+GitHub: https://github.com/RSMSPN01  
+LinkedIn: www.linkedin.com/in/rsmspn01
+
+Thanks for Stoping by, feel free to connect!
