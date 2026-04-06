@@ -6,10 +6,10 @@ Published two book chapters using Machine Learning and starting to step into and
 **Currently working on:**  
 - Consistent DSA practice (C++)  
 - Improving problem-solving and system thinking
-- Android Development 
+- Native Android Development 
   
 **Tools:**  
-C++, Python, Git, GitHub, VS Code
+C++, Kotlin, Git, GitHub, VS Code, Android Studio
 
 **Connect:**  
 GitHub: https://github.com/RSMSPN01  
