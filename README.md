@@ -14,5 +14,6 @@ C++, Kotlin, Git, GitHub, VS Code, Android Studio
 **Connect:**  
 GitHub: https://github.com/RSMSPN01  
 LinkedIn: www.linkedin.com/in/rsmspn01
+Research: https://orcid.org/0009-0008-4334-554X
 
 Thanks for Stoping by, feel free to connect!
