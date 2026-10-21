@@ -1,19 +1,26 @@
-## Praveen Kumar
+# Hi, I'm Praveen Kumar 👋
 
-Computer Science student focused on **Data Structures, Algorithms, and core software engineering**.
-Published two book chapters using Machine Learning and starting to step into android development
+Computer Science and Engineering student focused on software development, problem-solving, and building practical applications.
 
-**Currently working on:**  
-- Consistent DSA practice (C++)  
-- Improving problem-solving and system thinking
-- Native Android Development 
-  
-**Tools:**  
-C++, Kotlin, Git, GitHub, VS Code, Android Studio
+I've co-authored **two published book chapters on machine learning** and am currently expanding my skills in native Android development.
 
-**Connect:**  
-GitHub: https://github.com/RSMSPN01  
-LinkedIn: www.linkedin.com/in/rsmspn01 
-Research: https://orcid.org/0009-0008-4334-554X
+## 🚀 Currently Working On
+- Practicing Data Structures and Algorithms in C++
+- Improving problem-solving and software design skills
+- Building Android applications using Kotlin and Jetpack Compose
 
-Thanks for Stoping by, feel free to connect!
+## 🛠️ Tools & Technologies
+- **Languages:** C++, Kotlin, C
+- **Android Development:** Android Studio, Jetpack Compose
+- **Tools:** Git, GitHub, VS Code
+
+## 📚 Research & Publications
+- Co-author of two published book chapters related to machine learning.
+- [View my ORCID research profile](https://orcid.org/0009-0008-4334-554X)
+
+## 🔗 Connect With Me
+- **GitHub:** [RSMSPN01](https://github.com/RSMSPN01)
+- **LinkedIn:** [Praveen Kumar](https://www.linkedin.com/in/rsmspn01/)
+- **ORCID:** [Research Profile](https://orcid.org/0009-0008-4334-554X)
+
+Thanks for stopping by! Feel free to connect. 😊
